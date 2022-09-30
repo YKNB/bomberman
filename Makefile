@@ -1,5 +1,5 @@
 
-NAME = endgame
+NAME = bomberman
 
 
 SRC_DIR = src
